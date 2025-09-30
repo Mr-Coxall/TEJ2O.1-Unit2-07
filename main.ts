@@ -5,4 +5,9 @@
  * This program is the Cookie Clicker program
 */
 
-basic.showString('Hello, World!')
+basic.clearScreen()
+basic.pause(1000)
+
+input.onButtonPressed(Button.A, function() {
+    // this function 
+})
